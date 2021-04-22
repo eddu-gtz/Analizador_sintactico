@@ -1,0 +1,11 @@
+void main()
+{
+	int val1;
+	val1 = 6
+
+	if(val1 == 6 ){ 
+
+	}
+	
+	double valor;
+}
